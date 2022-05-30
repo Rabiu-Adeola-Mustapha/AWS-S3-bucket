@@ -1,2 +1,2 @@
 # AWS-S3-bucket
-Hosting a static website with AWS S3 bucket and CloudFront
+https://d33bb8g237n3bj.cloudfront.net
